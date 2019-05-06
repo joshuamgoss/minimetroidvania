@@ -1,0 +1,1623 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R9 200 Series (ID=0x67b1)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   21.19.137.514
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Josh\Documents\Unity Projects\MiniMetroidVania\Mini Metroid-Vania\SuperMiniPlatformer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Josh\Documents\Unity Projects\MiniMetroidVania\Mini Metroid-Vania\SuperMiniPlatformer_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Josh\Documents\Unity Projects\MiniMetroidVania\Mini Metroid-Vania\SuperMiniPlatformer_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Josh\Documents\Unity Projects\MiniMetroidVania\Mini Metroid-Vania\SuperMiniPlatformer_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Josh\Documents\Unity Projects\MiniMetroidVania\Mini Metroid-Vania\SuperMiniPlatformer_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Josh\Documents\Unity Projects\MiniMetroidVania\Mini Metroid-Vania\SuperMiniPlatformer_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Josh\Documents\Unity Projects\MiniMetroidVania\Mini Metroid-Vania\SuperMiniPlatformer_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Josh\Documents\Unity Projects\MiniMetroidVania\Mini Metroid-Vania\SuperMiniPlatformer_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Josh\Documents\Unity Projects\MiniMetroidVania\Mini Metroid-Vania\SuperMiniPlatformer_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Josh\Documents\Unity Projects\MiniMetroidVania\Mini Metroid-Vania\SuperMiniPlatformer_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  1.312 seconds
+Platform assembly: C:\Users\Josh\Documents\Unity Projects\MiniMetroidVania\Mini Metroid-Vania\SuperMiniPlatformer_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Josh\Documents\Unity Projects\MiniMetroidVania\Mini Metroid-Vania\SuperMiniPlatformer_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.134875 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 2df4 -> priority: 1 
+  Thread -> id: 21a8 -> priority: 1 
+  Thread -> id: a94 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.261271 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1662.
+Total: 0.449961 ms (FindLiveObjects: 0.114310 ms CreateObjectMapping: 0.026575 ms MarkObjects: 0.257016 ms  DeleteObjects: 0.046961 ms)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.417596 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1599.
+Total: 0.658924 ms (FindLiveObjects: 0.136881 ms CreateObjectMapping: 0.045505 ms MarkObjects: 0.406639 ms  DeleteObjects: 0.068440 ms)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Rotation quaternions must be unit length.
+ 
+(Filename:  Line: 1313)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.610577 ms
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 323.
+Total: 1.569404 ms (FindLiveObjects: 0.072809 ms CreateObjectMapping: 0.082638 ms MarkObjects: 0.628344 ms  DeleteObjects: 0.784156 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.233789 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 323.
+Total: 0.433579 ms (FindLiveObjects: 0.037860 ms CreateObjectMapping: 0.041501 ms MarkObjects: 0.341475 ms  DeleteObjects: 0.011285 ms)
+
